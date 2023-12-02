@@ -1,6 +1,7 @@
 ### Волонтерський проєкт зі створення сайту Благодійного фонду "Дім Добра"
 
-<a  href="https://github.com/it-volunteers-ukraine/dim-dobra">посилання на первинний репозиторій</a>
+<a  href="https://github.com/it-volunteers-ukraine/dim-dobra">посилання на первинний репозиторій It-volunteers-ukraine
+</a>
 
 <div style="display: flex; justify-content: center">
 
